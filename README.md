@@ -1,2 +1,2 @@
 # Trabajo Práctico de Git
-Este archivo fue modificado por un integrante del grupo. ¡Saludos!
+Este archivo fue modificado por David,  integrante del grupo. ¡Saludos!
