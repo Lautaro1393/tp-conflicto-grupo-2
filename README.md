@@ -1,2 +1,2 @@
 # Trabajo Práctico de Git
-Este archivo será modificado por todos los integrantes del grupo.
+Este archivo fue modificado por un integrante del grupo. ¡Saludos!
